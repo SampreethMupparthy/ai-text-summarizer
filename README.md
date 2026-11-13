@@ -42,4 +42,4 @@ Building this helped me understand how to work with LLM APIs, structure prompts 
 ## Author
 
 **Sampreeth Mupparthy**
-[GitHub](https://github.com/SampreethMupparthy) · [LinkedIn](https://linkedin.com/in/sampreeth-mupparthy)
+[GitHub](https://github.com/SampreethMupparthy) · [LinkedIn](https://linkedin.com/in/sampreeth-mupparthy) [Try the live app](https://sampreeth-ai-text-summarizer.streamlit.app)
