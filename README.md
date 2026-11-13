@@ -34,7 +34,7 @@ GEMINI_API_KEY = "your-key-here"
 
 ## Live Demo
 
-[your-app-name.streamlit.app]([Try the live app](https://sampreeth-ai-text-summarizer.streamlit.app))
+([Try the live app](https://sampreeth-ai-text-summarizer.streamlit.app))
 
 ## What I learned
 Building this helped me understand how to work with LLM APIs, structure prompts for consistent output length, handle PDF text extraction, and deploy a Python web app end-to-end.
